@@ -10,7 +10,7 @@ It does not contain the actual implementations of the export formats, those are 
 
 Produces verilog files from schematics. Uses the various prebuild files in /verilog_files.
 
-TODO: add documentation
+A bit of documentation for the export process is in [verilog_export.md](verilog_export.md)
 
 ### VHDL
 
