@@ -1,0 +1,12 @@
+.*
+**/*.res
+**/*.md5
+**/*.import
+nim/backend.dll
+nim/libbackend.dylib
+nim/libbackend.so
+!/.gitignore
+translations/
+.import
+debug.log
+nim/backend_lib/tempCodeRunnerFile.nim
