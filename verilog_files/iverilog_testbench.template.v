@@ -31,12 +31,12 @@ module {testbench_name} ();
         clk = 1'b0;
         forever #1 clk = ~clk;
     end
-{>whenTrace}
+{?whenTrace}
     initial begin
         $dumpfile("{trace_file}");
         $dumpvars(0, dut);
     end
-{<whenTrace}    
+{/whenTrace}
     // generate reset
     initial begin
         rst = 1'b1;
