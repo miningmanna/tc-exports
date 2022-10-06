@@ -1,6 +1,5 @@
 TC_Clock
 TC_Console
-TC_Constant
 TC_Counter
 TC_Decoder1
 TC_Decoder2
@@ -22,13 +21,7 @@ TC_Maker64
 TC_Maker8
 TC_Mul
 TC_Mux
-TC_Nand
-TC_Neg
-TC_Nor
-TC_Not
 TC_NoteSound
-TC_Or
-TC_Or3
 TC_Program
 TC_Program8_1
 TC_Program8_4
@@ -47,5 +40,3 @@ TC_Splitter64
 TC_Splitter8
 TC_Switch
 TC_Timing
-TC_Xnor
-TC_Xor

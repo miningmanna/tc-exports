@@ -15,6 +15,6 @@ end TC_And3;
 architecture Behavorial of TC_And3 is
 begin
     
-    output <= in0 & in1 & in2;
+    output <= in0 and in1 and in2;
     
 end Behavorial;
